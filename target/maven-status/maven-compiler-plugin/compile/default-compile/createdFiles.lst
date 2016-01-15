@@ -1,0 +1,16 @@
+com\bellinfo\model\UserRole.class
+com\bellinfo\helper\BellInfoHelper.class
+com\bellinfo\service\UserService.class
+com\bellinfo\configuration\SecurityWebApplicationInitializer.class
+com\bellinfo\controller\BellInfoController.class
+com\bellinfo\configuration\SpringMvcInitializer.class
+com\bellinfo\configuration\SecurityConfiguration.class
+com\bellinfo\helper\UserPojo.class
+com\bellinfo\service\impl\UserServiceImpl.class
+com\bellinfo\configuration\CustomSuccessHandler.class
+com\bellinfo\configuration\BellInfoConfiguration.class
+com\bellinfo\configuration\HibernateConfiguration.class
+com\bellinfo\service\impl\CustomUserDetailsService.class
+com\bellinfo\dao\impl\UserDaoImpl.class
+com\bellinfo\dao\UserDao.class
+com\bellinfo\model\User.class
